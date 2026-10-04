@@ -1,0 +1,43 @@
+# === SWAY СТЕК ===
+sway
+waybar
+swaybg
+swayidle
+swaylock
+
+# === ТЕРМИНАЛ ===
+alacritty
+
+# === МЕНЮ И УТИЛИТЫ ===
+wofi
+grim
+slurp
+wl-clipboard
+wtype
+mako-notifier
+
+# === ЗВУК И ЯРКОСТЬ ===
+brightnessctl
+pamixer
+pipewire-audio
+wireplumber
+
+# === ШРИФТЫ ===
+fonts-jetbrains-mono
+fonts-font-awesome
+
+# === ПРИКОЛЮХИ ===
+fastfetch
+
+# === X11 СОВМЕСТИМОСТЬ ===
+xwayland
+
+# === D-BUS / POLKIT ===
+dbus-user-session
+policykit-1
+
+# === СБОРКА ===
+build-essential
+git
+curl
+wget
